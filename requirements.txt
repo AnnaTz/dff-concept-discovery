@@ -1,0 +1,7 @@
+pillow==10.2.0
+kneed==0.8.5
+matplotlib==3.8.2
+numpy==1.24.3
+torch==2.1.2
+torchvision==0.16.2
+opencv-python==4.9.0.80
